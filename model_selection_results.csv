@@ -1,0 +1,7 @@
+Algorithm,CV - Recall,CV - Precision,CV - F1,CV - ROC-AUC
+CATBoost,27.27,59.88,37.46,79.53
+LightGBM,28.88,59.26,38.82,79.43
+XGBoost,27.51,59.16,37.55,78.48
+Random Forest,29.57,55.13,38.48,78.06
+LogisticRegresion,34.79,42.03,38.04,74.34
+Naive Bayes,54.43,24.22,33.5,72.05
